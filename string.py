@@ -1,5 +1,8 @@
 myStr = "Hello World"
 
+print(myStr + " significa Hola Mundo")
+print(f"{myStr} significa Hola Mundo")
+
 #print(dir(myStr))
 
 #print(myStr.upper())
@@ -23,4 +26,3 @@ myStr = "Hello World"
 
 # print(myStr[6])
 # print(myStr[-2])
-
