@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "D:\\Program Files\\Python64\\python.exe",
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "Community Material Theme Darker",
     "oneDarkPro.bold": true,
     "oneDarkPro.vivid": true,
     "python.formatting.provider": "yapf"
